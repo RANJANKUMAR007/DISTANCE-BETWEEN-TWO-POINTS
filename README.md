@@ -11,7 +11,6 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5:  End the program
 ### PROGRAM:
   
-![image](https://github.com/RANJANKUMAR007/DISTANCE-BETWEEN-TWO-POINTS/assets/152128740/6f7c59c4-8eb2-469f-9cb3-7e0cea318530)
 
 
 
